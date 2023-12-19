@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andyjadeja
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Android Projects
 - 📫 Reach out to me at Insta @halfdeveloper 
 
